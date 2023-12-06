@@ -1,5 +1,5 @@
 import './index.css'
-import DynamicFormParser from './DynamicFormParser'
+import DynamicFormParser from './DynamicFormParser/DynamicFormParser'
 import { inputs } from './constants/constants'
 
 export default function App() {
